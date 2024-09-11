@@ -1,0 +1,14 @@
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\bin\Debug\net8.0\FormasGeometricas.exe
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\bin\Debug\net8.0\FormasGeometricas.deps.json
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\bin\Debug\net8.0\FormasGeometricas.runtimeconfig.json
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\bin\Debug\net8.0\FormasGeometricas.dll
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\bin\Debug\net8.0\FormasGeometricas.pdb
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.AssemblyInfo.cs
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.dll
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\refint\FormasGeometricas.dll
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.pdb
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\FormasGeometricas.genruntimeconfig.cache
+C:\Users\Raul\Desktop\desafio_formas_geometricas_FPDW1\FormasGeometricas\obj\Debug\net8.0\ref\FormasGeometricas.dll
